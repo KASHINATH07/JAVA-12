@@ -1,0 +1,36 @@
+1) Write a program to check whether the given 
+number is equal to 15 or not; print equal or not equal.
+
+2)Write a program to check whether the given 
+two String is equal or not; print equal or not equal. 
+
+3)Write a program to check whether the given 
+number is divisible by 4 or not. Print divisible or not 
+divisible. 
+
+4)Write a program to check whether the number is between 21 to 35 and it should be even if the condition is true print sum the number ; otherwise print -20 with the number. 
+
+5)Write a program to check whether the given 
+character is digit or not if it is digit then print ascii value last digit else print digit. 
+
+6)Write a program to check whether the given 
+character is symbol or not if it symbol print it else print its acii value. 
+
+7)Write a program to check whether the given 
+character is alphabet if it is alphabet print its ascii 
+value ; otherwise print the given char as it is. 
+
+8)Write a program to check whether the given 
+character is special symbol and its ascii value should be 
+greater than 70 if it is true print “happy Day” 
+otherwise print “Ohh Shit Monday”.
+
+9)Write a Program to check whether the given 
+character is vowel or not.  
+
+
+10) Write a program by taking 2 integer values 
+print which ever is larger however if the two values 
+have same reminder when divided by 5 then print 
+smaller value,however in all the cases if two values are 
+same print 0.

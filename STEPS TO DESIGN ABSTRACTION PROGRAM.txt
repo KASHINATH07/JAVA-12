@@ -1,0 +1,17 @@
+STEPS TO DESIGN ABSTRACTION PROGRAM
+1. Create an interface.
+2. Create a method inside interface.
+3. Create an implementation class.
+4. Implement the method of interface.
+5. Create a Helper class.
+6. Create a Helper method.
+7. Helper method will create an object of implementation class, Up-cast the object to interface, return the object.
+
+
+STEPS TO USE ABSTRACTION PROGRAM
+1. Know the interface.
+2. Know the methods of interface.
+3. It is unnecessary to know the implementation class.
+4. It is unnecessary to know “How method is implemented?”.
+5. Know the Helper class.
+6. Know the Helper method is it static or Non-static.

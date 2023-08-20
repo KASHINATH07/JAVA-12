@@ -1,0 +1,150 @@
+Day-1:
+-------------
+1) What is Java..?
+
+2) What is High level Programming language..?
+
+3) Explain Different Types of Programming Languages..?
+
+4) What is  Java Process? explain it properly
+
+5) What is Platform Indepedent .? Explain it properly
+
+6) What is Javac ,JRE and JDK..?
+
+7) What is Compiler..?
+
+8) What is Interpreter ..?
+
+9) What is Compilation..?
+
+10) What is Interpretation..?
+
+Day-2
+----------
+
+11)Write a Structure for Java Program.
+
+12) What is Print Operation ..?
+
+13) What is Data..? Explain  with Types
+
+14) What is DataType .? Explain with Types
+
+15) What is Pimitive dataType..? explain with Types
+
+ 
+16) What is non-primitive dataType..? explain with examples
+
+17) what is variable..?
+
+18)What is Variable Declaration ..?
+
+19) Can we Perform Variable ReDeclation ? if yes or no explain why..? example
+
+20) what is Variable Initialization..?
+
+
+
+
+
+
+
+21) Can we Perform Variable ReInitialization ? if yes or no explain why..? example
+
+22)What is Expresion ..?
+
+23) What is Condition ..?
+
+24) what is operator..?
+
+25) what is operand..?
+
+26) Explain types of Operator..?
+
+27) Explain Types of Java Operators..?
+
+28) Explain Plus(+) Operator in java with cases..?
+
+29)Explain Arithmetic operator..?
+
+
+Day-4
+-------
+
+30) Explain Relation Operators..? 
+
+31) Explain Logical Operators..?
+
+32) Explain Ternary Operator..?
+
+33) Explain Increment and Decrement Operators..?
+
+34) Explain Flow Control Statements ..? Explain Why we need..?
+
+35) Explain Conditional statements ..? explain why we use..? explain if,if else, else if,switch
+
+36) Explain Looping statements ..? explain why we use..?
+
+37) Explain diff beetween conditional and looping statements ...?
+
+38) Explain about break..?
+
+39) Wap to check given number is Leap Year or not..?
+
+40) Write a program to check whether the given number is present 
+between 30 and 40 including if it is present perform arthimetic 
+operations with respect to the number by taking operand 2 as 20.
+
+41)Write a program to check whether the given number is divisible by 3 
+and 5 if it is divisible ; the number variable reinitialized with the 
+product of 3 with respect to the given number , print the reinitialized 
+variable otherwise print the number as it is.
+
+42)Write a program to check whether the given character is lower case if it 
+is lower case convert it into upper case and print.
+
+43)Write a Program smallest of 3 Numers by using nested if.
+
+44)Write a program to check whether the sum of the divisors and product 
+of the divisors are equal or not If it is equal print “special number” 
+otherwise “not a special number”.
+
+45) Wap to check given number is Strong or not
+
+46) Wap to check whether given number is prime.
+
+47) Wap to check middle digit of given number is Perfect or not.
+
+48) Wap  to check given numbers fist digit is neon number or not.
+
+49)Write a program to count number of divisiors of the numbers and 
+check the number of divisors are even. If it is even reinitialize the 
+Boolean variable as false; and print the Boolean variable.
+
+50)what is method..?
+
+51) explain types of  methods..?
+
+52) what is static keyword..?
+
+53) what is static method..? explain why we need.?
+
+54) what is non-static method in java..?explain why we need..?
+
+55) what is diff between static method and non static method..?
+
+56) explain about class static pool area..?
+
+57) explain about method area..?
+
+58) explain about heap area..?
+
+59) explain method with arguements ..? why we need..?
+
+60) explain method with return type ..? why we need..?
+
+61) explain complete methods..?
+
+62)
+
